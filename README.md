@@ -31,7 +31,7 @@ A technical Governance, Risk, and Compliance (GRC) portfolio showcasing Policy-a
 
 #### **📁 `03_Data_Governance_and_Cryptography`**
 
-*Crucial for Canadian privacy laws (PIPEDA) and SOC 2 Trust Services Criteria.*
+*Crucial for SOC 2 Trust Services Criteria.*
 
 * `Data_Governance_Policy.md`  
 * `Information_Classification_Standard.md`  
@@ -45,7 +45,7 @@ A technical Governance, Risk, and Compliance (GRC) portfolio showcasing Policy-a
 
 #### **📁 `04_Network_and_Infrastructure_Security`**
 
-*Demonstrates your grasp of technical perimeter defense.*
+*Demonstrates technical perimeter defense.*
 
 * `Network_Security_Standard.md`  
 * `Network_Segmentation_Policy.md`  
@@ -57,7 +57,7 @@ A technical Governance, Risk, and Compliance (GRC) portfolio showcasing Policy-a
 
 #### **📁 `05_Threat_Vulnerability_and_DevSecOps`**
 
-*Shows your ability to integrate security into engineering workflows.*
+*Integrate security into engineering workflows.*
 
 * `Vulnerability_Management_Policy.md`  
 * `Patch_Management_Policy.md`  
