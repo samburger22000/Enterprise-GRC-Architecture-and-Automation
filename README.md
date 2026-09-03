@@ -104,9 +104,11 @@ A technical Governance, Risk, and Compliance (GRC) portfolio showcasing Policy-a
 * `Social_Engineering_Defence_Policy.md`  
 * `Physical_and_Environmental_Security_Policy.md`
 
-#### **📁 `09_Technical_Execution_Scripts` (Highly Recommended Add-on)**
+#### **📁 `09_Technical_Execution_Scripts` **
 
 *To completely seal the deal, put your Bash and PowerShell hardening scripts from the previous task here.*
 
 * `Windows_CIS_Hardening.ps1`  
 * `macOS_CIS_Hardening.sh`
+
+#### **📁 `10_Audit_and_Compliance_Artefacts` **
