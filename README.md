@@ -4,7 +4,7 @@ A technical Governance, Risk, and Compliance (GRC) portfolio showcasing Policy-a
 
 #### **📁 `01_Governance_and_IMS_Core`**
 
-*This folder proves you can build the foundational management system.*
+*Use this folder to build the foundational management system.*
 
 * `Integrated_Management_System_IMS_Policy.md`  
 * `IMS_Procedure_for_the_Control_of_Documented_Information.md`  
