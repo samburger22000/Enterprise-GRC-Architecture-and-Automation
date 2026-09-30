@@ -84,7 +84,7 @@ A technical Governance, Risk, and Compliance (GRC) portfolio showcasing Policy-a
 
 #### **📁 `06_Incident_Response_and_Business_Continuity`**
 
-*Proves you know how to handle the worst-case scenarios.*
+*How to handle the worst-case scenarios.*
 
 * `Computer_Security_Incident_Response_Policy.md`  
 * `Integrated_Incident_Management_Plan.md`  
